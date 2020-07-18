@@ -8,4 +8,5 @@ const mod = 9%5;
 const max = 20 
 const mult = 31 * 2 
 let num1 = 31;
-const multiply = num1 * 2
+let num2 = 2;
+const multiply = num1 * num2
