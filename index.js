@@ -7,3 +7,4 @@ const mod = 9%5;
 
 const max = 20 
 const mult = 31 * 2 
+const multiply = 31 * 2
